@@ -36,10 +36,5 @@ The notebook provides the following results:
 - A detailed analysis of global attitudes towards cryptocurrencies based on Twitter data.
 - Choropleth maps visualizing cereal yield per hectare for the years 2019 and 2020.
 
-### Sample Visualizations
-#### Cereal Yield per Hectare - 2019
-![Cereal Yield 2019](path/to/2019_cereal_yield_map.png)
 
-#### Cereal Yield per Hectare - 2020
-![Cereal Yield 2020](path/to/2020_cereal_yield_map.png)
 
