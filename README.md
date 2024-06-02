@@ -9,11 +9,10 @@ This repository contains an analysis of global attitudes toward cryptocurrencies
 3. [Installation](#installation)
 4. [Usage](#usage)
 5. [Results](#results)
-6. [Contributing](#contributing)
-7. [License](#license)
+
 
 ## Introduction
-This project aims to provide insights into global attitudes toward cryptocurrencies by analyzing Twitter data. Additionally, it visualizes cereal yield data to understand global agricultural productivity trends. The geographical distribution of opinions on cryptocurrencies is explored, highlighting regional differences and similarities.
+This project aims to provide insights into global attitudes toward cryptocurrencies by analyzing Twitter data. Additionally, it visualizes cereal yield data to understand global agricultural productivity trends. The geographical distribution of opinions on cryptocurrencies is explored, highlighting regional differences and similarities.The file attached to this repository will
 
 ## Data Sources
 The analysis uses the following datasets:
@@ -34,7 +33,7 @@ pip install pandas geopandas matplotlib
    ```
 2. Navigate to the project directory:
    ```bash
-   cd crypto-cereal-analysis
+   cd Gesospatial
    ```
 3. Run the Jupyter Notebook to perform the analysis:
    ```bash
@@ -53,12 +52,3 @@ The notebook provides the following results:
 #### Cereal Yield per Hectare - 2020
 ![Cereal Yield 2020](path/to/2020_cereal_yield_map.png)
 
-## Contributing
-Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) first.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-You can customize the placeholders like `yourusername` and paths to images or additional files as per your repository structure.
