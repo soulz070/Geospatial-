@@ -12,8 +12,7 @@ This repository contains an analysis of global attitudes toward cryptocurrencies
 
 
 ## Introduction
-This project aims to provide insights into global attitudes toward cryptocurrencies by analyzing Twitter data. Additionally, it visualizes cereal yield data to understand global agricultural productivity trends. The geographical distribution of opinions on cryptocurrencies is explored, highlighting regional differences and similarities.CIS7030_S1_23_Regular brief assignment.pdf this file has a link for the data.https://outlookuwicac-my.sharepoint.com/personal/sm23739_cardiffmet_ac_uk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fsm23739%5Fcardiffmet%5Fac%5Fuk%2FDocuments%2FAttachments%2FTEACHING%2FAY%2023%5F24%2FCIS7030%5FS1%5F23%2FAssessment%2FRegular&ga=1
-
+This project aims to provide insights into global attitudes toward cryptocurrencies by analyzing Twitter data. Additionally, it visualizes cereal yield data to understand global agricultural productivity trends. The geographical distribution of opinions on cryptocurrencies is explored, highlighting regional differences and similarities.CIS7030_S1_23_Regular brief assignment.pdf this file has a link for the data.
 ## Data Sources
 The analysis uses the following datasets:
 - **Cereal Yield Data**: Obtained from the World Bank, containing cereal yield (kg per hectare) data for various countries.
