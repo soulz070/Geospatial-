@@ -26,15 +26,7 @@ pip install pandas geopandas matplotlib
 ```
 
 ## Usage
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/soulz070/Geospatial.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd Gesospatial
-   ```
-3. Run the Jupyter Notebook to perform the analysis:
+Run the Jupyter Notebook to perform the analysis:
    ```bash
    jupyter notebook st20257754_CIS7030_WRIT_1.ipynb
    ```
